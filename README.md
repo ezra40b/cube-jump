@@ -10,4 +10,7 @@ git clone git@github.com:ezra40b/cube-jump
 cd cube-jump
 cargo run
 ```
-builds: see git tags
+
+executables:
+
+coming soon!
