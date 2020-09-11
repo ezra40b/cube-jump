@@ -1,0 +1,4 @@
+(
+    title: "A game by Ezra",
+    dimensions: Some((1000, 800))
+)
